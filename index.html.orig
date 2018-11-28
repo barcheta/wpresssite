@@ -8,8 +8,12 @@
 
 <title>Company name - home page</title>
 </head>
+<<<<<<< HEAD
 header Master
+=======
+header branch 2
 
+>>>>>>> branch2
 <main>
 	<article>article</article>
 	<aside>aside</aside>
